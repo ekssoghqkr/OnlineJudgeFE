@@ -1,8 +1,8 @@
 {
-  "name": "onlinejudge",
-  "version": "2.0.0",
+  "name": "onlinejudge_SHT",
+  "version": "2.0.1",
   "description": "onlinejudge front end",
-  "author": "zemal <rawidn@163.com>",
+  "author": "esgq <hialwl@sht.hs.kr>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
